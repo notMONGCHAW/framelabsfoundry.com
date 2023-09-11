@@ -4,11 +4,14 @@
 
 /* Custom Colors */
 .bg-customOrange {
-    background-color: #f17300;
-  }
-  .bg-customPink {
-    background-color: #d90368;
-  }
-  .bg-customBlue {
-    background-color: #97dffc;
-  }
+  background-color: #f17300;
+}
+.bg-customPink {
+  background-color: #d90368;
+}
+.bg-customBlue {
+  background-color: #97dffc;
+}
+.bg-cutomBlack {
+  background-color: #2b2b2b;
+}
