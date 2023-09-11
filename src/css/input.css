@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Colors */
+.bg-customOrange {
+    background-color: #f17300;
+  }
+  .bg-customPink {
+    background-color: #d90368;
+  }
+  .bg-customBlue {
+    background-color: #97dffc;
+  }

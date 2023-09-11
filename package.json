@@ -1,0 +1,19 @@
+{
+  "name": "framelabsfoundry.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss build ./src/input.css -o ../output.css",
+    "watch": "tailwindcss build styles.css -o output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29"
+  }
+}
