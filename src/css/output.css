@@ -535,6 +535,9 @@ video {
 }
 
 /* Custom Colors */
+.bg-customBlack {
+  background-color: #2b2b2b;
+}
 
 .bg-customOrange {
   background-color: #f17300;
