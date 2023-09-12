@@ -1,3 +1,8 @@
 body {
     background-color: #2b2b2b;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
